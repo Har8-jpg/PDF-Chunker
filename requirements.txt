@@ -6,4 +6,5 @@ seaborn
 numpy
 plotly
 nltk
-Pypdf2
+PyPDF2
+
